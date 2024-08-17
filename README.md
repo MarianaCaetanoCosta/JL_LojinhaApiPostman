@@ -1,6 +1,6 @@
 # Testes Automatizados de API Rest com Postman
 
-
+Neste projeto realizamos os testes no site **Lojinha API** disponibilizado para os alunos da **Mentoria em Testes de Software** do **Julio de Lima**
 
 
 ## Swagger
@@ -17,8 +17,12 @@
 
 
 ## Métodos HTTP
+
+
 ![image](https://github.com/user-attachments/assets/09323485-520d-4d37-a700-e95b59a3e965)
 
 
 ## Códigos de retorno HTTP
+
+
 ![image](https://github.com/user-attachments/assets/144e6046-1ee7-4264-959b-560f85bdd444)
