@@ -2,6 +2,16 @@
 
 Neste projeto realizamos os testes no site **Lojinha API** disponibilizado para os alunos da **Mentoria em Testes de Software** do **Julio de Lima**
 
+## Lojinha API
+![Login](https://github.com/user-attachments/assets/9e2e31d7-2795-4c64-a25c-2309986d63b5)
+![CadastroProduto](https://github.com/user-attachments/assets/628d6836-d7c7-4687-8a29-19627c302abd)
+![AdicionarComponente](https://github.com/user-attachments/assets/443cdf66-e70d-44df-bfbe-b0eaa988879f)
+
+![ProdutoCadastrado](https://github.com/user-attachments/assets/a9e0c9cd-9269-4022-8426-ef6543b31c79)
+![ListaDeProduto](https://github.com/user-attachments/assets/48721d2e-0455-4aeb-b179-db16ebb1b660)
+
+
+
 
 ## Swagger
 ![image](https://github.com/user-attachments/assets/d129023f-3b9c-4350-9a81-72d52bba2ddb)
